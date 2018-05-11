@@ -1,0 +1,14 @@
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\bin\Debug\netstandard2.0\eCom.DAL.deps.json
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\bin\Debug\netstandard2.0\eCom.DAL.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\obj\Debug\netstandard2.0\eCom.DAL.csprojResolveAssemblyReference.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\obj\Debug\netstandard2.0\eCom.DAL.csproj.CoreCompileInputs.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\obj\Debug\netstandard2.0\eCom.DAL.AssemblyInfoInputs.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\obj\Debug\netstandard2.0\eCom.DAL.AssemblyInfo.cs
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\bin\Debug\netstandard2.0\eCom.DAL.pdb
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\bin\Debug\netstandard2.0\eCom.Contract.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\bin\Debug\netstandard2.0\eCom.Model.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\bin\Debug\netstandard2.0\eCom.Contract.pdb
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\bin\Debug\netstandard2.0\eCom.Model.pdb
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\obj\Debug\netstandard2.0\eCom.DAL.csproj.CopyComplete
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\obj\Debug\netstandard2.0\eCom.DAL.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.DAL\obj\Debug\netstandard2.0\eCom.DAL.pdb

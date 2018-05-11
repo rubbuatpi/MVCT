@@ -1,0 +1,9 @@
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\bin\Debug\netstandard2.0\eCom.Contract.deps.json
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\bin\Debug\netstandard2.0\eCom.Contract.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\bin\Debug\netstandard2.0\eCom.Contract.pdb
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\obj\Debug\netstandard2.0\eCom.Contract.csprojResolveAssemblyReference.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\obj\Debug\netstandard2.0\eCom.Contract.csproj.CoreCompileInputs.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\obj\Debug\netstandard2.0\eCom.Contract.AssemblyInfoInputs.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\obj\Debug\netstandard2.0\eCom.Contract.AssemblyInfo.cs
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\obj\Debug\netstandard2.0\eCom.Contract.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Contract\obj\Debug\netstandard2.0\eCom.Contract.pdb

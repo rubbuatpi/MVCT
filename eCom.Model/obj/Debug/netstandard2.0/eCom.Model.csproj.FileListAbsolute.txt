@@ -1,0 +1,16 @@
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\eCom.Model.deps.json
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\eCom.Model.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\eCom.Model.pdb
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\System.Security.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\System.Configuration.xml
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\bin\Debug\netstandard2.0\System.Security.xml
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\obj\Debug\netstandard2.0\eCom.Model.csprojResolveAssemblyReference.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\obj\Debug\netstandard2.0\eCom.Model.csproj.CoreCompileInputs.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\obj\Debug\netstandard2.0\eCom.Model.AssemblyInfoInputs.cache
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\obj\Debug\netstandard2.0\eCom.Model.AssemblyInfo.cs
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\obj\Debug\netstandard2.0\eCom.Model.csproj.CopyComplete
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\obj\Debug\netstandard2.0\eCom.Model.dll
+E:\Ramesh Ubbu\wwwroot\Mvct\eCom.Model\obj\Debug\netstandard2.0\eCom.Model.pdb
